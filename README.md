@@ -1,4 +1,2 @@
 # NLP-tutorial
-This is a repository
-
-hello
+This is a repository of poem generation
